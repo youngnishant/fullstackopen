@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "date": "2019-07-20T17:30:31.098Z",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "The browser can only execute javascript",
+      "date": "2019-07-20T18:39:34.091Z",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "The main methods of the HTTP protocol are GET and POST",
+      "date": "2019-07-20T19:20:14.298Z",
+      "important": true
+    }
+  ]
+}
